@@ -1,0 +1,5 @@
+pandas
+flask
+gradio
+xgboost
+matplotlib
